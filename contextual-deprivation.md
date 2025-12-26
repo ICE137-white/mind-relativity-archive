@@ -3,6 +3,7 @@ author: 申子易 (ICE137-white)
 source: https://zhuanlan.zhihu.com/p/1984139171120568001（知乎原文链接）
 published_date: 2025-12-23
 archived_date: 2025-12-26
+---
 
 核心命题：沟通中最深层的暴力，并非源于信息误解，而是强势方对弱势方所处整体生存语境的否定与剥夺。 
 一、 理论框架
