@@ -1,4 +1,11 @@
-《心智相对论及其衍生伦理构建》
+title: 心智相对论及其衍生伦理构建
+author: 申子易 (ICE137-white)
+source:[https://zhuanlan.zhihu.com/p/1984131923812053617]（知乎原文链接）
+published_date: 2025-12-16
+archived_date: 2025-12-26
+---
+
+（这里开始是你的正文内容...）《心智相对论及其衍生伦理构建》
 作者：申子易
 
 
